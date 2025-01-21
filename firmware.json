@@ -1,4 +1,6 @@
 {
+    "version": 0.0,
+    "update": "OTA"
     "version": 0.1,
-    "file": "https://github.com/miumesh/otaupdates/raw/refs/heads/main/TES.bin"
+    "update": "INI EDIT"
 }
